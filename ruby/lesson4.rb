@@ -1,0 +1,2 @@
+name="souwa"
+puts name
